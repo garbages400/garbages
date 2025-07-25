@@ -1,6 +1,6 @@
 # 🗑 Swan Chain Exposed: Who’s Still Pretending Not to See?
 
-[中文版](./garbage_swan.md) | [英文版](./garbage_swan_EN.md)
+[中文版](./garbage_swan.md) | [English](./garbage_swan_EN.md)
 
 <img width="958" height="957" alt="image" src="https://github.com/user-attachments/assets/7eab96f3-0ff0-4eec-a13e-1597d13f9210" />
 
