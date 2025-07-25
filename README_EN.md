@@ -1,7 +1,3 @@
-当然，以下是你这份 `README.md` 的英文版本，保持原意不变，同时语气清晰、有讽刺但不过火：
-
----
-
 # 🗑 garbages
 
 > The first step to understanding Web3: **know the garbage**.
@@ -15,7 +11,7 @@ This repository collects and analyzes **garbage Web3 projects** — from shady t
 
 | Project                                 | Summary                                                                                             | Garbage Level |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------- |
-| [SwanChain](./projects/garbage_swan.md) | Core team disappeared, fake task farming, centralized token control, massive unlock-and-dump cycles | ⭐⭐⭐⭐⭐         |
+| [SwanChain](./projects/garbage_swan_EN.md) | Core team disappeared, fake task farming, centralized token control, massive unlock-and-dump cycles | ⭐⭐⭐⭐⭐         |
 
 > See more in the [`projects/`](./projects/) directory.
 
@@ -34,7 +30,3 @@ This repository collects and analyzes **garbage Web3 projects** — from shady t
 This repository is for **educational and research purposes only**.
 Nothing here is financial advice.
 Give us a ⭐ if this helps you dodge a scam or two!
-
----
-
-如需我顺便翻译 `garbage_swan.md` 的详细内容，也可以继续说。
