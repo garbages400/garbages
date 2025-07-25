@@ -1,4 +1,5 @@
 # Swan Chain 项目真相大曝光：谁还在装看不见？
+[中文版](./garbage_swan.md) | [English](./garbage_swan_EN.md)
 <img width="958" height="957" alt="image" src="https://github.com/user-attachments/assets/7eab96f3-0ff0-4eec-a13e-1597d13f9210" />
 
 
