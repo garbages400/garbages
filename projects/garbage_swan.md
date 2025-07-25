@@ -1,4 +1,4 @@
-# Swan Chain 项目真相大曝光：谁还在装看不见？
+# Swan Chain 项目真相大曝光：谁还在装看不见？（第一篇）
 [中文版](./garbage_swan.md) | [English](./garbage_swan_EN.md)
 <img width="958" height="957" alt="image" src="https://github.com/user-attachments/assets/7eab96f3-0ff0-4eec-a13e-1597d13f9210" />
 
@@ -183,7 +183,7 @@ https://github.com/swanchain/go-computing-provider/tags
 <img width="1678" height="830" alt="image" src="https://github.com/user-attachments/assets/1857fad8-f29d-47ed-a04a-68be09268136" />
 
 
-核心代码库已经半年没更新了，没人管，没人写，没人审。这还怎么叫 Layer 2？项目都快进博物馆了。
+**核心代码库已经半年没更新了，没人管，没人写，没人审。这还怎么叫 Layer 2？项目都快进博物馆了。**
 
 ## 总结一下，能跑赶紧跑
 Swan Chain 现在的情况：
