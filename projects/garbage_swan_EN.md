@@ -1,4 +1,4 @@
-# 🗑 Swan Chain Exposed: Who’s Still Pretending Not to See?
+# 🗑 Swan Chain Exposed: Who’s Still Pretending Not to See? （Part One）
 
 [中文版](./garbage_swan.md) | [English](./garbage_swan_EN.md)
 
